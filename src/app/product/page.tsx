@@ -1,4 +1,4 @@
-import Link from "next/link";
+/* import Link from "next/link";
 import ProductDelete from "./delete";
 //SSR
 async function getProducts() {
@@ -32,4 +32,4 @@ export default async function page(){
         </div>
 
     )
-}
+} */

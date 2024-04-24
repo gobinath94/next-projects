@@ -1,4 +1,4 @@
-// API can hit in 2 ways 1.1 server side client (useEffect in react)
+/* // API can hit in 2 ways 1.1 server side client (useEffect in react)
 // for Server side :-> API hit using next
 
 import AllProduct from "@/actions/product/productAction";
@@ -30,4 +30,4 @@ export default async function page(){
         </div>
 
     )
-}
+} */

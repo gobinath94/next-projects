@@ -1,4 +1,4 @@
-"use client"
+/* "use client"
 
 import { useState } from "react";
 import { useRouter } from "../../../../node_modules/next/navigation";
@@ -53,4 +53,4 @@ export default function Page() {
             </form>
         </div>
     )
-}
+} */
